@@ -49,8 +49,8 @@ body {
 	text-rendering : optimizeLegibility;
 	-webkit-font-smoothing : antialiased;
 	font-size: 19px;
-	background-color: #FEFEFE;
-	color: #04143A;
+	background-color: #ffffff;
+	color: #04143a;
 }
 ol, ul {
 	list-style: none;
